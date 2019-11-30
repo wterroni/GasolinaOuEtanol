@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Gasolina ou Alcool</string>
+    <string name="label_preco">Preço do litro (R$):</string>
+    <string name="label_etanol">Etanol</string>
+    <string name="label_gasolina">Gasolina</string>
+    <string name="butao_calcular">Calcular</string>
+    <string name="error_etanol">Campo etanol em branco</string>
+    <string name="error_gasolina">Campo gasolina em branco</string>
+    <string name="message_error">Preencha todos os campos</string>
+    <string name="message_etanol">Abasteça com <b>Etanol!</b></string>
+    <string name="message_gasolina">Abasteça com <b>Gasolina!</b></string>
+</resources>
